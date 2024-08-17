@@ -9,7 +9,7 @@
     <bek-icon icon="/ui-icons.svg#dots-vert" />
 
     <!-- Uncomment below line -->
-    <bek-icon icon="/ui-icons.svg#bookmark" />
+    <!-- <bek-icon icon="/ui-icons.svg#bookmark" /> -->
 
     <bek-icon icon="/ui-icons.svg#notification" />
   </main>
